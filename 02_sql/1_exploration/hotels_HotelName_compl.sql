@@ -1,0 +1,1 @@
+SELECT DISTINCT hotel_name FROM hotels LIMIT 1000;

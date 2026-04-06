@@ -1,0 +1,45 @@
+#,table_name,column_name,data_type
+1,flights,trip_id,text
+2,flights,origin_airport,text
+3,flights,destination,text
+4,flights,destination_airport,text
+5,flights,seats,integer
+6,flights,return_flight_booked,boolean
+7,flights,departure_time,timestamp without time zone
+8,flights,return_time,timestamp without time zone
+9,flights,checked_bags,integer
+10,flights,trip_airline,text
+11,flights,destination_airport_lat,numeric
+12,flights,destination_airport_lon,numeric
+13,flights,base_fare_usd,numeric
+14,hotels,trip_id,text
+15,hotels,hotel_name,text
+16,hotels,nights,integer
+17,hotels,rooms,integer
+18,hotels,check_in_time,timestamp without time zone
+19,hotels,check_out_time,timestamp without time zone
+20,hotels,hotel_per_room_usd,numeric
+21,sessions,session_id,text
+22,sessions,user_id,integer
+23,sessions,trip_id,text
+24,sessions,session_start,timestamp without time zone
+25,sessions,session_end,timestamp without time zone
+26,sessions,flight_discount,boolean
+27,sessions,hotel_discount,boolean
+28,sessions,flight_discount_amount,numeric
+29,sessions,hotel_discount_amount,numeric
+30,sessions,flight_booked,boolean
+31,sessions,hotel_booked,boolean
+32,sessions,page_clicks,integer
+33,sessions,cancellation,boolean
+34,users,user_id,integer
+35,users,birthdate,date
+36,users,gender,text
+37,users,married,boolean
+38,users,has_children,boolean
+39,users,home_country,text
+40,users,home_city,text
+41,users,home_airport,text
+42,users,home_airport_lat,numeric
+43,users,home_airport_lon,numeric
+44,users,sign_up_date,date

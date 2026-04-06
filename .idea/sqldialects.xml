@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/02_sql/1_exploration/hotels_HotelName_compl.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02_sql/1session_cancellation_rate.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02_sql/2_filters/Anuar_filter.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02_sql/2_filters/tabels_after_2023_01_04_users_gt7.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02_sql/AnzahlZeilen.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/02_sql/tbl_size.sql" dialect="PostgreSQL" />
+  </component>
+</project>

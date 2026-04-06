@@ -1,0 +1,10 @@
+pg_temp_11,temp_sessions_gefiltert
+pg_temp_11,temp_user_session_counts
+pg_temp_11,temp_users_aktiv
+pg_temp_11,temp_sessions_aktiv
+pg_temp_11,temp_session_id_aktiv
+pg_temp_11,temp_user_id_aktiv
+pg_temp_11,temp_trip_id_aktiv
+pg_temp_11,temp_users_aktiv_gefiltert
+pg_temp_11,temp_hotels_aktiv
+pg_temp_11,temp_flights_aktiv
